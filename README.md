@@ -10,4 +10,3 @@ Learning Material for Computer Science and Related fileds
 * [Coding Interview](https://github.com/jwasham/coding-interview-university)
 * [Learn OS](https://github.com/esmaeelE/OS)
 * [Learn Network](https://github.com/esmaeelE/network)
-* 
